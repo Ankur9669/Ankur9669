@@ -49,10 +49,10 @@ I would love to connect with you for a discussion around opportunities you have 
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Absolute path in react js](https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js)
-- [Launching &quot;onlibrary - a web app for onlineLibrary&quot;, #Netlify #NetlifyHackathon](https://dynamicprogrammer.hashnode.dev/onlibrary-a-web-app-for-onlinelibrary)
-- [Why do we call ReactJs declarative?](https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative)
-- [Difference between a Scripting Language and a Programming Language](https://dynamicprogrammer.hashnode.dev/difference-between-a-scripting-language-and-a-programming-language)
+- [OOPS Concepts for Begginers](https://hashnode.com/post/oops-concepts-easily-explained-ckseoyss00nttt2s1hl0jha0x)
+- [Components in React](https://hashnode.com/post/lets-learn-about-components-in-react-js-ckonynmna0edz6ds1a6rc3f5e)
+- [Hoisting and TDZ in Javascript](https://hashnode.com/post/what-is-hoisting-in-javascript-and-temporal-dead-zone-cky9ukzkj1btp5ns14v7n68pi)
+- [Deep Copy and shallow copy in Javascript](https://hashnode.com/post/what-is-deep-copy-and-shallow-copy-in-javascript-ckyd72pjr03o03ks15joi5uor)
 - [Why you should not use export default in JavaScript?](https://dynamicprogrammer.hashnode.dev/why-you-should-not-use-export-default-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
