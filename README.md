@@ -35,8 +35,8 @@ I would love to connect with you for a discussion around opportunities you have 
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Java-eb4c34?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Android-51fc42?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Java-eb4c34?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/Android-51fc42?style=for-the-badge&logo=android&logoColor=black)
 ![](https://img.shields.io/badge/redux-0AC97F?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
@@ -78,12 +78,12 @@ I would love to connect with you for a discussion around opportunities you have 
 
 ---
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsnice16&show_icons=true&theme=gotham" alt="Himanshu Singh | Stats" />
 
----
+--- -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.buymeacoffee.com/hsnice16"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</div>
+</div> -->
