@@ -35,7 +35,7 @@ I would love to connect with you for a discussion around opportunities you have 
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/redux-0AC97F?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
