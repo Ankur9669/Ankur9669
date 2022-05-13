@@ -53,7 +53,8 @@ I would love to connect with you for a discussion around opportunities you have 
 - [Components in React](https://hashnode.com/post/lets-learn-about-components-in-react-js-ckonynmna0edz6ds1a6rc3f5e)
 - [Hoisting and TDZ in Javascript](https://hashnode.com/post/what-is-hoisting-in-javascript-and-temporal-dead-zone-cky9ukzkj1btp5ns14v7n68pi)
 - [Deep Copy and shallow copy in Javascript](https://hashnode.com/post/what-is-deep-copy-and-shallow-copy-in-javascript-ckyd72pjr03o03ks15joi5uor)
-- [Why you should not use export default in JavaScript?](https://dynamicprogrammer.hashnode.dev/why-you-should-not-use-export-default-in-javascript)
+- [How Asychronous Code is executed in Javascript?](https://hashnode.com/post/how-asynchronous-code-is-executed-in-javascript-cky77u6hy0hk75ns1gqz50gu2)
+
 <!-- BLOG-POST-LIST:END -->
 
 </td>
