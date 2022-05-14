@@ -45,9 +45,9 @@ I would love to connect with you for a discussion around opportunities you have 
 
 ## ✍️ Recent Blog Posts
 
-<table align="center">
+<!-- <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%"> -->
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -59,9 +59,9 @@ I would love to connect with you for a discussion around opportunities you have 
 
 <!-- BLOG-POST-LIST:END -->
 
-</td>
+<!-- </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -74,23 +74,13 @@ I would love to connect with you for a discussion around opportunities you have 
 
 ---
 
-<!-- ## 📊 Github Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsnice16&show_icons=true&theme=gotham" alt="Himanshu Singh | Stats" />
-
---- -->
-
-<!-- <div align="center">
-  <a href="https://www.buymeacoffee.com/hsnice16"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</div> -->
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur9669&show_icons=true&locale=en&layout=compact" alt="ankur9669" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur9669&show_icons=true&locale=en&layout=compact" alt="ankur9669-stats" /></div>
 
 <br>
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur9669&show_icons=true&locale=en" alt="ankur9669" />
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur9669&show_icons=true&locale=en" alt="ankur9669-stats" />
 </div>
 
 <br>
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur9669&" alt="ankur9669" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur9669&" alt="ankur9669-stats" /></div>
