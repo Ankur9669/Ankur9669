@@ -5,6 +5,7 @@
 ![Header Image](https://github.com/hsnice16/hsnice16/blob/main/Linked_Header_2.PNG)
 
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankur9669&label=Profile%20views&color=0e75b6&style=flat" alt="ankur9669" /> </p>
 
 I am final year student of B.tech CS and currently i am learning web development at [neogCamp](https://neog.camp/). I have a keen interest in the web development field and has made many projects to keep building his learning.
 
