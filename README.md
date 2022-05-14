@@ -84,7 +84,7 @@ I would love to connect with you for a discussion around opportunities you have 
   <a href="https://www.buymeacoffee.com/hsnice16"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </div> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur9669&show_icons=true&locale=en&layout=compact" alt="ankur9669" /></p>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur9669&show_icons=true&locale=en&layout=compact" alt="ankur9669" /></div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur9669&show_icons=true&locale=en" alt="ankur9669" /></p>
 
