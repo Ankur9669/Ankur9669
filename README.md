@@ -86,6 +86,11 @@ I would love to connect with you for a discussion around opportunities you have 
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur9669&show_icons=true&locale=en&layout=compact" alt="ankur9669" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur9669&show_icons=true&locale=en" alt="ankur9669" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur9669&" alt="ankur9669" /></p>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur9669&show_icons=true&locale=en" alt="ankur9669" />
+</div>
+
+<br>
+
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur9669&" alt="ankur9669" /></div>
