@@ -12,7 +12,7 @@ I am final year student of B.tech CS and currently i am learning web development
 
 Check my [GitHub repositories](https://github.com/Ankur9669?tab=repositories)
 
-I have also worked as a intern in a startup named learnbowl where i was a full stack web developer. I worked on two projects there, one was to create their official website from scratch and other was to create their student portal.
+I have also worked as a intern in a startup named learnbowl where i was a full stack web developer. I worked on two projects there, one was to create their **official website from scratch** and other was to create their **student portal**.
 
 I keep sharing my learning via blog writing, and LinkedIn posts. Check his work,
 
