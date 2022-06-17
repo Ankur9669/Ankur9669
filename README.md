@@ -8,13 +8,13 @@
 
 </div>
 
-I am final year student of B.tech CS and currently i am learning web development at [neogCamp](https://neog.camp/). I have a keen interest in the web development field and has made many projects to keep building his learning.
+I am final year student of B.tech CS and currently I am learning web development at [neogCamp](https://neog.camp/). I have a keen interest in the web development field and has made many projects to keep upgrading my skills.
 
 Check my [GitHub repositories](https://github.com/Ankur9669?tab=repositories)
 
-I have also worked as a intern in a startup named learnbowl where i was a full stack web developer. I worked on two projects there, one was to create their **official website from scratch** and other was to create their **student portal**.
+I have also worked as a intern in a startup named learnbowl where I was a full stack web developer. I worked on two projects there, one was to create their **official website from scratch** and other was to create their **student portal**.
 
-I keep sharing my learning via blog writing, and LinkedIn posts. Check his work,
+I keep sharing my learning via blog writing, and LinkedIn posts. Check my work,
 
 - [Blogs](https://hashnode.com/@Ankur9669)
 - [LinkedIn](https://www.linkedin.com/in/ankur-gupta-0805a11a7/)
