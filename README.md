@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Header Image](https://github.com/hsnice16/hsnice16/blob/main/Linked_Header_2.PNG)
+<!-- ![Header Image](https://github.com/hsnice16/hsnice16/blob/main/Linked_Header_2.PNG) -->
 
 </div>
 
