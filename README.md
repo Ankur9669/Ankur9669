@@ -19,7 +19,7 @@ I keep sharing my learning via blog writing, and LinkedIn posts. Check my work,
 - [Blogs](https://hashnode.com/@Ankur9669)
 - [LinkedIn](https://www.linkedin.com/in/ankur-gupta-0805a11a7/)
 
-I would love to connect with you for a discussion around opportunities you have for him!
+I would love to connect with you for a discussion around opportunities you have for me!
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like pizza and burger😐
