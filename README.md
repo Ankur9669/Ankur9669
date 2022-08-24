@@ -8,7 +8,7 @@
 
 </div>
 
-I am final year student of B.tech CS and currently I am learning web development at [neogCamp](https://neog.camp/). I have a keen interest in the web development field and has made many projects to keep upgrading my skills.
+I have completed my B.tech in Computer Science and currently I am working at [Flipkart](https://www.flipkart.com/) as a UI engineer. I have a keen interest in the web development field and has made many projects to keep upgrading my skills.
 
 Check my [GitHub repositories](https://github.com/Ankur9669?tab=repositories)
 
